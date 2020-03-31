@@ -224,7 +224,6 @@ void detKeypointsFAST(vector<cv::KeyPoint>& keypoints, cv::Mat& img, bool bVis)
     detectorfast->detect(img, keypoints);
     //t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
     //cout << "FAST detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
-
     // visualize results
     if (bVis)
     {
