@@ -14,5 +14,4 @@ struct DataFrame { // represents the available sensor information at the same ti
     std::vector<cv::DMatch> kptMatches; // keypoint matches between previous and current frame
 };
 
-
 #endif /* dataStructures_h */
