@@ -243,7 +243,6 @@ int main(int argc, const char *argv[])
             cout << "Result 4 : Total time for matching descritors " << 1000 * t / 1.0 << " ms" << " ; Total time : "<< ((t+t1) *1000)/1.0 << " ms" << endl;
             cout << "Result 5 : Total Matched Keypoints between 2 images =" << matches.size() << "; Using Descriptor Type : " << descriptorType << endl;
             
-
             // visualize matches between current and previous image
             bVis = true;
             if (bVis)
@@ -265,6 +264,6 @@ int main(int argc, const char *argv[])
         }
 
     } // eof loop over all images
-
+    
     return 0;
 }
