@@ -18,7 +18,6 @@
 
 #include "dataStructures.h"
 
-
 void detKeypointsHarrisCorner(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis=false);
 void detKeypointsFAST(std::vector<cv::KeyPoint>& keypoints, cv::Mat& img, bool bVis = false);
 void detKeypointsBRISK(std::vector<cv::KeyPoint>& keypoints, cv::Mat& img, bool bVis = false);
