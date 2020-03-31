@@ -1,0 +1,7 @@
+TASK 7: The number of keypoints within the bounding box of the preceding vehicle:
+
+Observations: 
+Maximum number of keypoints detection by using below :
+1. FAST ~ 400
+2. BRISK ~ 250 - 300
+3. AKAZE ~ 150 - 200
