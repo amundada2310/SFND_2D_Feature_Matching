@@ -1,0 +1,61 @@
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 55.0611 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 166
+Result 3 : Neighborhood Size = 4.8
+ Result 1 : Total time for determining detectors 54.5127 ms ; Using Dectector Type : AKAZE ; Total Size : 1327
+Result 2 : Total keypoints on preceding vehicle = 157
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3467 ms ; Total time : 54.8594 ms
+Result 5 : Total Matched Keypoints between 2 images =108; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 64.3555 ms ; Using Dectector Type : AKAZE ; Total Size : 1311
+Result 2 : Total keypoints on preceding vehicle = 161
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3383 ms ; Total time : 64.6938 ms
+Result 5 : Total Matched Keypoints between 2 images =116; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.8358 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 155
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.2528 ms ; Total time : 53.0886 ms
+Result 5 : Total Matched Keypoints between 2 images =110; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.3772 ms ; Using Dectector Type : AKAZE ; Total Size : 1360
+Result 2 : Total keypoints on preceding vehicle = 163
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.269 ms ; Total time : 52.6462 ms
+Result 5 : Total Matched Keypoints between 2 images =109; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.5136 ms ; Using Dectector Type : AKAZE ; Total Size : 1347
+Result 2 : Total keypoints on preceding vehicle = 164
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.26 ms ; Total time : 52.7736 ms
+Result 5 : Total Matched Keypoints between 2 images =116; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 55.2767 ms ; Using Dectector Type : AKAZE ; Total Size : 1363
+Result 2 : Total keypoints on preceding vehicle = 173
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.2959 ms ; Total time : 55.5726 ms
+Result 5 : Total Matched Keypoints between 2 images =129; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.9404 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 175
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3081 ms ; Total time : 54.2485 ms
+Result 5 : Total Matched Keypoints between 2 images =133; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.9189 ms ; Using Dectector Type : AKAZE ; Total Size : 1358
+Result 2 : Total keypoints on preceding vehicle = 177
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.282 ms ; Total time : 53.2009 ms
+Result 5 : Total Matched Keypoints between 2 images =135; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.0714 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 179
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3014 ms ; Total time : 53.3728 ms
+Result 5 : Total Matched Keypoints between 2 images =131; Using Descriptor Type : BRIEF
+Press key to continue to next image

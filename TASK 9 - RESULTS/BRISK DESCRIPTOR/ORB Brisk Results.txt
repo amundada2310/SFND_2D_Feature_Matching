@@ -1,0 +1,61 @@
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 149.092 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 92
+Result 3 : Neighborhood Size = 31
+ Result 1 : Total time for determining detectors 5.0718 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 102
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.3202 ms ; Total time : 5.392 ms
+Result 5 : Total Matched Keypoints between 2 images =60; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7156 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 106
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2629 ms ; Total time : 4.9785 ms
+Result 5 : Total Matched Keypoints between 2 images =65; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.9559 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 113
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.1904 ms ; Total time : 5.1463 ms
+Result 5 : Total Matched Keypoints between 2 images =65; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7556 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 109
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2564 ms ; Total time : 5.012 ms
+Result 5 : Total Matched Keypoints between 2 images =76; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7601 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 125
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.3092 ms ; Total time : 5.0693 ms
+Result 5 : Total Matched Keypoints between 2 images =72; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 5.0522 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 130
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.3163 ms ; Total time : 5.3685 ms
+Result 5 : Total Matched Keypoints between 2 images =83; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.9472 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 129
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.3302 ms ; Total time : 5.2774 ms
+Result 5 : Total Matched Keypoints between 2 images =83; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7463 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 127
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.334 ms ; Total time : 5.0803 ms
+Result 5 : Total Matched Keypoints between 2 images =73; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7915 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 128
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2972 ms ; Total time : 5.0887 ms
+Result 5 : Total Matched Keypoints between 2 images =72; Using Descriptor Type : BRISK
+Press key to continue to next image

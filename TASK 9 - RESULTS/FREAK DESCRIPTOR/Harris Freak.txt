@@ -1,0 +1,62 @@
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 9.8709 ms ; Using Dectector Type : HARRIS ; Total Size : 122
+Result 2 : Total keypoints on preceding vehicle = 17
+Result 3 : Neighborhood Size = 6
+ Result 1 : Total time for determining detectors 10.0806 ms ; Using Dectector Type : HARRIS ; Total Size : 99
+Result 2 : Total keypoints on preceding vehicle = 14
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1959 ms ; Total time : 10.2765 ms
+Result 5 : Total Matched Keypoints between 2 images =11; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.1605 ms ; Using Dectector Type : HARRIS ; Total Size : 120
+Result 2 : Total keypoints on preceding vehicle = 19
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0968 ms ; Total time : 10.2573 ms
+Result 5 : Total Matched Keypoints between 2 images =9; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.3968 ms ; Using Dectector Type : HARRIS ; Total Size : 125
+Result 2 : Total keypoints on preceding vehicle = 22
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1093 ms ; Total time : 9.5061 ms
+Result 5 : Total Matched Keypoints between 2 images =13; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.5303 ms ; Using Dectector Type : HARRIS ; Total Size : 170
+Result 2 : Total keypoints on preceding vehicle = 26
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.2119 ms ; Total time : 9.7422 ms
+Result 5 : Total Matched Keypoints between 2 images =15; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 13.9321 ms ; Using Dectector Type : HARRIS ; Total Size : 432
+Result 2 : Total keypoints on preceding vehicle = 47
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1197 ms ; Total time : 14.0518 ms
+Result 5 : Total Matched Keypoints between 2 images =13; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 8.9869 ms ; Using Dectector Type : HARRIS ; Total Size : 86
+Result 2 : Total keypoints on preceding vehicle = 18
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1543 ms ; Total time : 9.1412 ms
+Result 5 : Total Matched Keypoints between 2 images =18; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 11.0478 ms ; Using Dectector Type : HARRIS ; Total Size : 225
+Result 2 : Total keypoints on preceding vehicle = 33
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1002 ms ; Total time : 11.148 ms
+Result 5 : Total Matched Keypoints between 2 images =10; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.7204 ms ; Using Dectector Type : HARRIS ; Total Size : 180
+Result 2 : Total keypoints on preceding vehicle = 27
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1232 ms ; Total time : 9.8436 ms
+Result 5 : Total Matched Keypoints between 2 images =16; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.8146 ms ; Using Dectector Type : HARRIS ; Total Size : 300
+Result 2 : Total keypoints on preceding vehicle = 35
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1849 ms ; Total time : 10.9995 ms
+Result 5 : Total Matched Keypoints between 2 images =18; Using Descriptor Type : FREAK
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

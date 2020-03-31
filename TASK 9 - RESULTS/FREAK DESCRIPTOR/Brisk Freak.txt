@@ -1,0 +1,61 @@
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 137.177 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 264
+Result 3 : Neighborhood Size = 11.4444
+ Result 1 : Total time for determining detectors 133.604 ms ; Using Dectector Type : BRISK ; Total Size : 2777
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 16.5484
+Result 4 : Total time for matching descritors 0.858 ms ; Total time : 134.462 ms
+Result 5 : Total Matched Keypoints between 2 images =114; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 131.401 ms ; Using Dectector Type : BRISK ; Total Size : 2741
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 13.0737
+Result 4 : Total time for matching descritors 0.8224 ms ; Total time : 132.223 ms
+Result 5 : Total Matched Keypoints between 2 images =121; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 133.08 ms ; Using Dectector Type : BRISK ; Total Size : 2735
+Result 2 : Total keypoints on preceding vehicle = 277
+Result 3 : Neighborhood Size = 11.6
+Result 4 : Total time for matching descritors 0.8339 ms ; Total time : 133.913 ms
+Result 5 : Total Matched Keypoints between 2 images =113; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 137.12 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 297
+Result 3 : Neighborhood Size = 12
+Result 4 : Total time for matching descritors 0.8676 ms ; Total time : 137.987 ms
+Result 5 : Total Matched Keypoints between 2 images =118; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 138.619 ms ; Using Dectector Type : BRISK ; Total Size : 2695
+Result 2 : Total keypoints on preceding vehicle = 279
+Result 3 : Neighborhood Size = 12.1837
+Result 4 : Total time for matching descritors 0.8392 ms ; Total time : 139.458 ms
+Result 5 : Total Matched Keypoints between 2 images =103; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 136.566 ms ; Using Dectector Type : BRISK ; Total Size : 2715
+Result 2 : Total keypoints on preceding vehicle = 289
+Result 3 : Neighborhood Size = 11.5455
+Result 4 : Total time for matching descritors 0.869 ms ; Total time : 137.435 ms
+Result 5 : Total Matched Keypoints between 2 images =129; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 131.171 ms ; Using Dectector Type : BRISK ; Total Size : 2628
+Result 2 : Total keypoints on preceding vehicle = 272
+Result 3 : Neighborhood Size = 13.625
+Result 4 : Total time for matching descritors 0.8252 ms ; Total time : 131.996 ms
+Result 5 : Total Matched Keypoints between 2 images =135; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 132.196 ms ; Using Dectector Type : BRISK ; Total Size : 2639
+Result 2 : Total keypoints on preceding vehicle = 266
+Result 3 : Neighborhood Size = 10.5714
+Result 4 : Total time for matching descritors 0.7513 ms ; Total time : 132.947 ms
+Result 5 : Total Matched Keypoints between 2 images =129; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 137.108 ms ; Using Dectector Type : BRISK ; Total Size : 2672
+Result 2 : Total keypoints on preceding vehicle = 254
+Result 3 : Neighborhood Size = 8.4
+Result 4 : Total time for matching descritors 0.7203 ms ; Total time : 137.828 ms
+Result 5 : Total Matched Keypoints between 2 images =131; Using Descriptor Type : FREAK
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

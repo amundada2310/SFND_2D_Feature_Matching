@@ -1,0 +1,65 @@
+cl : command line warning D9002: ignoring unknown option '-std=c++11' [C:\Users\aishw\Downloads\SFND_2D_Feature_Trackin
+g-master\build\2D_feature_tracking.vcxproj]
+  MidTermProject_Camera_Student.cpp
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 148.639 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 92
+Result 3 : Neighborhood Size = 31
+ Result 1 : Total time for determining detectors 5.3694 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 102
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2856 ms ; Total time : 5.655 ms
+Result 5 : Total Matched Keypoints between 2 images =40; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.8973 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 106
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2069 ms ; Total time : 5.1042 ms
+Result 5 : Total Matched Keypoints between 2 images =52; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7175 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 113
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.1304 ms ; Total time : 4.8479 ms
+Result 5 : Total Matched Keypoints between 2 images =46; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.6522 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 109
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.218 ms ; Total time : 4.8702 ms
+Result 5 : Total Matched Keypoints between 2 images =54; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7558 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 125
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.3073 ms ; Total time : 5.0631 ms
+Result 5 : Total Matched Keypoints between 2 images =53; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.6047 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 130
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.439 ms ; Total time : 5.0437 ms
+Result 5 : Total Matched Keypoints between 2 images =65; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.6949 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 129
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2452 ms ; Total time : 4.9401 ms
+Result 5 : Total Matched Keypoints between 2 images =68; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.7261 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 127
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2099 ms ; Total time : 4.936 ms
+Result 5 : Total Matched Keypoints between 2 images =65; Using Descriptor Type : ORB
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 4.8991 ms ; Using Dectector Type : ORB ; Total Size : 500
+Result 2 : Total keypoints on preceding vehicle = 128
+Result 3 : Neighborhood Size = 31
+Result 4 : Total time for matching descritors 0.2916 ms ; Total time : 5.1907 ms
+Result 5 : Total Matched Keypoints between 2 images =72; Using Descriptor Type : ORB
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

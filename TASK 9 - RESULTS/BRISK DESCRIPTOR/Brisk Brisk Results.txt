@@ -1,0 +1,59 @@
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 139.785 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 264
+Result 3 : Neighborhood Size = 11.4444
+ Result 1 : Total time for determining detectors 132.893 ms ; Using Dectector Type : BRISK ; Total Size : 2777
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 16.5484
+Result 4 : Total time for matching descritors 0.9604 ms ; Total time : 133.853 ms
+Result 5 : Total Matched Keypoints between 2 images =138; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 143.801 ms ; Using Dectector Type : BRISK ; Total Size : 2741
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 13.0737
+Result 4 : Total time for matching descritors 0.9186 ms ; Total time : 144.72 ms
+Result 5 : Total Matched Keypoints between 2 images =144; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 133.152 ms ; Using Dectector Type : BRISK ; Total Size : 2735
+Result 2 : Total keypoints on preceding vehicle = 277
+Result 3 : Neighborhood Size = 11.6
+Result 4 : Total time for matching descritors 0.8991 ms ; Total time : 134.051 ms
+Result 5 : Total Matched Keypoints between 2 images =133; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 133.351 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 297
+Result 3 : Neighborhood Size = 12
+Result 4 : Total time for matching descritors 0.9172 ms ; Total time : 134.268 ms
+Result 5 : Total Matched Keypoints between 2 images =144; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 137.47 ms ; Using Dectector Type : BRISK ; Total Size : 2695
+Result 2 : Total keypoints on preceding vehicle = 279
+Result 3 : Neighborhood Size = 12.1837
+Result 4 : Total time for matching descritors 0.9658 ms ; Total time : 138.435 ms
+Result 5 : Total Matched Keypoints between 2 images =139; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 138.811 ms ; Using Dectector Type : BRISK ; Total Size : 2715
+Result 2 : Total keypoints on preceding vehicle = 289
+Result 3 : Neighborhood Size = 11.5455
+Result 4 : Total time for matching descritors 0.9224 ms ; Total time : 139.733 ms
+Result 5 : Total Matched Keypoints between 2 images =155; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 137.487 ms ; Using Dectector Type : BRISK ; Total Size : 2628
+Result 2 : Total keypoints on preceding vehicle = 272
+Result 3 : Neighborhood Size = 13.625
+Result 4 : Total time for matching descritors 0.9104 ms ; Total time : 138.398 ms
+Result 5 : Total Matched Keypoints between 2 images =137; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 137.705 ms ; Using Dectector Type : BRISK ; Total Size : 2639
+Result 2 : Total keypoints on preceding vehicle = 266
+Result 3 : Neighborhood Size = 10.5714
+Result 4 : Total time for matching descritors 0.8582 ms ; Total time : 138.564 ms
+Result 5 : Total Matched Keypoints between 2 images =150; Using Descriptor Type : BRISK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 138.137 ms ; Using Dectector Type : BRISK ; Total Size : 2672
+Result 2 : Total keypoints on preceding vehicle = 254
+Result 3 : Neighborhood Size = 8.4
+Result 4 : Total time for matching descritors 0.8248 ms ; Total time : 138.962 ms
+Result 5 : Total Matched Keypoints between 2 images =158; Using Descriptor Type : BRISK
+Press key to continue to next image

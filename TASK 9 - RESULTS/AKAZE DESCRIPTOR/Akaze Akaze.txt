@@ -1,0 +1,59 @@
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 53.3117 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 166
+Result 3 : Neighborhood Size = 4.8
+ Result 1 : Total time for determining detectors 53.6051 ms ; Using Dectector Type : AKAZE ; Total Size : 1327
+Result 2 : Total keypoints on preceding vehicle = 157
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4369 ms ; Total time : 54.042 ms
+Result 5 : Total Matched Keypoints between 2 images =128; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.2227 ms ; Using Dectector Type : AKAZE ; Total Size : 1311
+Result 2 : Total keypoints on preceding vehicle = 161
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3795 ms ; Total time : 53.6022 ms
+Result 5 : Total Matched Keypoints between 2 images =128; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 54.1771 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 155
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.391 ms ; Total time : 54.5681 ms
+Result 5 : Total Matched Keypoints between 2 images =125; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.7572 ms ; Using Dectector Type : AKAZE ; Total Size : 1360
+Result 2 : Total keypoints on preceding vehicle = 163
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.3348 ms ; Total time : 54.092 ms
+Result 5 : Total Matched Keypoints between 2 images =117; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 55.0469 ms ; Using Dectector Type : AKAZE ; Total Size : 1347
+Result 2 : Total keypoints on preceding vehicle = 164
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4242 ms ; Total time : 55.4711 ms
+Result 5 : Total Matched Keypoints between 2 images =121; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 54.5372 ms ; Using Dectector Type : AKAZE ; Total Size : 1363
+Result 2 : Total keypoints on preceding vehicle = 173
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4144 ms ; Total time : 54.9516 ms
+Result 5 : Total Matched Keypoints between 2 images =132; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.9767 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 175
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4395 ms ; Total time : 54.4162 ms
+Result 5 : Total Matched Keypoints between 2 images =137; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.698 ms ; Using Dectector Type : AKAZE ; Total Size : 1358
+Result 2 : Total keypoints on preceding vehicle = 177
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4293 ms ; Total time : 53.1273 ms
+Result 5 : Total Matched Keypoints between 2 images =140; Using Descriptor Type : AKAZE
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.1293 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 179
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4661 ms ; Total time : 53.5954 ms
+Result 5 : Total Matched Keypoints between 2 images =144; Using Descriptor Type : AKAZE
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

@@ -1,0 +1,11 @@
+  MidTermProject_Camera_Student.cpp
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 10.2018 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1370
+Result 2 : Total keypoints on preceding vehicle = 125
+Result 3 : Neighborhood Size = 4
+OpenCV: terminate handler is called! The last OpenCV error is:
+OpenCV(4.2.0) Error: Assertion failed (0 <= kpts[i].class_id && kpts[i].class_id < static_cast<int>(evolution_.size())) in cv::AKAZEFeatures::Compute_Descriptors, file C:\opencv\opencv-4.2.0\modules\features2d\src\kaze\AKAZEFeatures.cpp, line 1192
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

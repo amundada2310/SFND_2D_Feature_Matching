@@ -1,0 +1,60 @@
+S C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 10.1189 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1370
+Result 2 : Total keypoints on preceding vehicle = 125
+Result 3 : Neighborhood Size = 4
+ Result 1 : Total time for determining detectors 10.6543 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1301
+Result 2 : Total keypoints on preceding vehicle = 118
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.3875 ms ; Total time : 11.0418 ms
+Result 5 : Total Matched Keypoints between 2 images =66; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.3854 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1361
+Result 2 : Total keypoints on preceding vehicle = 123
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.4984 ms ; Total time : 10.8838 ms
+Result 5 : Total Matched Keypoints between 2 images =66; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.8037 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1358
+Result 2 : Total keypoints on preceding vehicle = 120
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.295 ms ; Total time : 10.0987 ms
+Result 5 : Total Matched Keypoints between 2 images =64; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.5246 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1333
+Result 2 : Total keypoints on preceding vehicle = 120
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.302 ms ; Total time : 10.8266 ms
+Result 5 : Total Matched Keypoints between 2 images =63; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.519 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1284
+Result 2 : Total keypoints on preceding vehicle = 113
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.297 ms ; Total time : 9.816 ms
+Result 5 : Total Matched Keypoints between 2 images =62; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.6537 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1322
+Result 2 : Total keypoints on preceding vehicle = 114
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.2738 ms ; Total time : 9.9275 ms
+Result 5 : Total Matched Keypoints between 2 images =64; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.6327 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1366
+Result 2 : Total keypoints on preceding vehicle = 123
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.3143 ms ; Total time : 9.947 ms
+Result 5 : Total Matched Keypoints between 2 images =61; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.8651 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1389
+Result 2 : Total keypoints on preceding vehicle = 111
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.3725 ms ; Total time : 10.2376 ms
+Result 5 : Total Matched Keypoints between 2 images =65; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.8637 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1339
+Result 2 : Total keypoints on preceding vehicle = 112
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.2747 ms ; Total time : 10.1384 ms
+Result 5 : Total Matched Keypoints between 2 images =63; Using Descriptor Type : FREAK
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

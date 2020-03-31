@@ -1,0 +1,61 @@
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 10.2116 ms ; Using Dectector Type : HARRIS ; Total Size : 122
+Result 2 : Total keypoints on preceding vehicle = 17
+Result 3 : Neighborhood Size = 6
+ Result 1 : Total time for determining detectors 10.6823 ms ; Using Dectector Type : HARRIS ; Total Size : 99
+Result 2 : Total keypoints on preceding vehicle = 14
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.1587 ms ; Total time : 10.841 ms
+Result 5 : Total Matched Keypoints between 2 images =12; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.4701 ms ; Using Dectector Type : HARRIS ; Total Size : 120
+Result 2 : Total keypoints on preceding vehicle = 19
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0718 ms ; Total time : 9.5419 ms
+Result 5 : Total Matched Keypoints between 2 images =12; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.4305 ms ; Using Dectector Type : HARRIS ; Total Size : 125
+Result 2 : Total keypoints on preceding vehicle = 22
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0589 ms ; Total time : 9.4894 ms
+Result 5 : Total Matched Keypoints between 2 images =13; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.4323 ms ; Using Dectector Type : HARRIS ; Total Size : 170
+Result 2 : Total keypoints on preceding vehicle = 26
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0567 ms ; Total time : 9.489 ms
+Result 5 : Total Matched Keypoints between 2 images =18; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 13.8506 ms ; Using Dectector Type : HARRIS ; Total Size : 432
+Result 2 : Total keypoints on preceding vehicle = 47
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0732 ms ; Total time : 13.9238 ms
+Result 5 : Total Matched Keypoints between 2 images =16; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.0368 ms ; Using Dectector Type : HARRIS ; Total Size : 86
+Result 2 : Total keypoints on preceding vehicle = 18
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.137 ms ; Total time : 9.1738 ms
+Result 5 : Total Matched Keypoints between 2 images =17; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.9438 ms ; Using Dectector Type : HARRIS ; Total Size : 225
+Result 2 : Total keypoints on preceding vehicle = 33
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0771 ms ; Total time : 10.0209 ms
+Result 5 : Total Matched Keypoints between 2 images =12; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.4639 ms ; Using Dectector Type : HARRIS ; Total Size : 180
+Result 2 : Total keypoints on preceding vehicle = 27
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0715 ms ; Total time : 9.5354 ms
+Result 5 : Total Matched Keypoints between 2 images =21; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 11.0476 ms ; Using Dectector Type : HARRIS ; Total Size : 300
+Result 2 : Total keypoints on preceding vehicle = 35
+Result 3 : Neighborhood Size = 6
+Result 4 : Total time for matching descritors 0.0664 ms ; Total time : 11.114 ms
+Result 5 : Total Matched Keypoints between 2 images =21; Using Descriptor Type : BRIEF
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

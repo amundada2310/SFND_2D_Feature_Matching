@@ -1,0 +1,62 @@
+  2D_feature_tracking.vcxproj -> C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build\Release\2D_feature_trac
+  king.exe
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master\build> cd ..
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 56.1598 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 166
+Result 3 : Neighborhood Size = 4.8
+ Result 1 : Total time for determining detectors 54.0717 ms ; Using Dectector Type : AKAZE ; Total Size : 1327
+Result 2 : Total keypoints on preceding vehicle = 157
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4376 ms ; Total time : 54.5093 ms
+Result 5 : Total Matched Keypoints between 2 images =103; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.0749 ms ; Using Dectector Type : AKAZE ; Total Size : 1311
+Result 2 : Total keypoints on preceding vehicle = 161
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4032 ms ; Total time : 53.4781 ms
+Result 5 : Total Matched Keypoints between 2 images =105; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 54.2416 ms ; Using Dectector Type : AKAZE ; Total Size : 1351
+Result 2 : Total keypoints on preceding vehicle = 155
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4026 ms ; Total time : 54.6442 ms
+Result 5 : Total Matched Keypoints between 2 images =93; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.6326 ms ; Using Dectector Type : AKAZE ; Total Size : 1360
+Result 2 : Total keypoints on preceding vehicle = 163
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4162 ms ; Total time : 54.0488 ms
+Result 5 : Total Matched Keypoints between 2 images =99; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.1318 ms ; Using Dectector Type : AKAZE ; Total Size : 1347
+Result 2 : Total keypoints on preceding vehicle = 164
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.6031 ms ; Total time : 53.7349 ms
+Result 5 : Total Matched Keypoints between 2 images =97; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.2271 ms ; Using Dectector Type : AKAZE ; Total Size : 1363
+Result 2 : Total keypoints on preceding vehicle = 173
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4183 ms ; Total time : 53.6454 ms
+Result 5 : Total Matched Keypoints between 2 images =115; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.7241 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 175
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4685 ms ; Total time : 53.1926 ms
+Result 5 : Total Matched Keypoints between 2 images =126; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 53.5251 ms ; Using Dectector Type : AKAZE ; Total Size : 1358
+Result 2 : Total keypoints on preceding vehicle = 177
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.4742 ms ; Total time : 53.9993 ms
+Result 5 : Total Matched Keypoints between 2 images =118; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 52.9599 ms ; Using Dectector Type : AKAZE ; Total Size : 1331
+Result 2 : Total keypoints on preceding vehicle = 179
+Result 3 : Neighborhood Size = 4.8
+Result 4 : Total time for matching descritors 0.6004 ms ; Total time : 53.5603 ms
+Result 5 : Total Matched Keypoints between 2 images =117; Using Descriptor Type : FREAK
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

@@ -1,0 +1,59 @@
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 10.9894 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1370
+Result 2 : Total keypoints on preceding vehicle = 125
+Result 3 : Neighborhood Size = 4
+ Result 1 : Total time for determining detectors 9.8901 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1301
+Result 2 : Total keypoints on preceding vehicle = 118
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.2688 ms ; Total time : 10.1589 ms
+Result 5 : Total Matched Keypoints between 2 images =96; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.9209 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1361
+Result 2 : Total keypoints on preceding vehicle = 123
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.1687 ms ; Total time : 10.0896 ms
+Result 5 : Total Matched Keypoints between 2 images =93; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.0621 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1358
+Result 2 : Total keypoints on preceding vehicle = 120
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.2076 ms ; Total time : 10.2697 ms
+Result 5 : Total Matched Keypoints between 2 images =92; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 14.8289 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1333
+Result 2 : Total keypoints on preceding vehicle = 120
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.2954 ms ; Total time : 15.1243 ms
+Result 5 : Total Matched Keypoints between 2 images =89; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 9.7938 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1284
+Result 2 : Total keypoints on preceding vehicle = 113
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.1819 ms ; Total time : 9.9757 ms
+Result 5 : Total Matched Keypoints between 2 images =92; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.0249 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1322
+Result 2 : Total keypoints on preceding vehicle = 114
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.1676 ms ; Total time : 10.1925 ms
+Result 5 : Total Matched Keypoints between 2 images =93; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.1343 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1366
+Result 2 : Total keypoints on preceding vehicle = 123
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.1509 ms ; Total time : 10.2852 ms
+Result 5 : Total Matched Keypoints between 2 images =85; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 10.073 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1389
+Result 2 : Total keypoints on preceding vehicle = 111
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.19 ms ; Total time : 10.263 ms
+Result 5 : Total Matched Keypoints between 2 images =91; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 13.2386 ms ; Using Dectector Type : SHITOMASI ; Total Size : 1339
+Result 2 : Total keypoints on preceding vehicle = 112
+Result 3 : Neighborhood Size = 4
+Result 4 : Total time for matching descritors 0.1555 ms ; Total time : 13.3941 ms
+Result 5 : Total Matched Keypoints between 2 images =85; Using Descriptor Type : BRIEF
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

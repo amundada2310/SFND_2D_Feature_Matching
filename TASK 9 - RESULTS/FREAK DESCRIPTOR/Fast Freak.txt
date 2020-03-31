@@ -1,0 +1,59 @@
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 1.4358 ms ; Using Dectector Type : FAST ; Total Size : 5063
+Result 2 : Total keypoints on preceding vehicle = 419
+Result 3 : Neighborhood Size = 7
+ Result 1 : Total time for determining detectors 1.1765 ms ; Using Dectector Type : FAST ; Total Size : 4952
+Result 2 : Total keypoints on preceding vehicle = 427
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 2.0916 ms ; Total time : 3.2681 ms
+Result 5 : Total Matched Keypoints between 2 images =178; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.2679 ms ; Using Dectector Type : FAST ; Total Size : 4863
+Result 2 : Total keypoints on preceding vehicle = 404
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.7699 ms ; Total time : 3.0378 ms
+Result 5 : Total Matched Keypoints between 2 images =181; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.6173 ms ; Using Dectector Type : FAST ; Total Size : 4840
+Result 2 : Total keypoints on preceding vehicle = 423
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.7586 ms ; Total time : 3.3759 ms
+Result 5 : Total Matched Keypoints between 2 images =156; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.2032 ms ; Using Dectector Type : FAST ; Total Size : 4856
+Result 2 : Total keypoints on preceding vehicle = 386
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.7035 ms ; Total time : 2.9067 ms
+Result 5 : Total Matched Keypoints between 2 images =182; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.486 ms ; Using Dectector Type : FAST ; Total Size : 4899
+Result 2 : Total keypoints on preceding vehicle = 414
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.7305 ms ; Total time : 3.2165 ms
+Result 5 : Total Matched Keypoints between 2 images =159; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.2108 ms ; Using Dectector Type : FAST ; Total Size : 4870
+Result 2 : Total keypoints on preceding vehicle = 418
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.9652 ms ; Total time : 3.176 ms
+Result 5 : Total Matched Keypoints between 2 images =179; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.3911 ms ; Using Dectector Type : FAST ; Total Size : 4868
+Result 2 : Total keypoints on preceding vehicle = 406
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 2.0648 ms ; Total time : 3.4559 ms
+Result 5 : Total Matched Keypoints between 2 images =196; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.1975 ms ; Using Dectector Type : FAST ; Total Size : 4996
+Result 2 : Total keypoints on preceding vehicle = 396
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.7859 ms ; Total time : 2.9834 ms
+Result 5 : Total Matched Keypoints between 2 images =164; Using Descriptor Type : FREAK
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 1.2103 ms ; Using Dectector Type : FAST ; Total Size : 4997
+Result 2 : Total keypoints on preceding vehicle = 401
+Result 3 : Neighborhood Size = 7
+Result 4 : Total time for matching descritors 1.9595 ms ; Total time : 3.1698 ms
+Result 5 : Total Matched Keypoints between 2 images =171; Using Descriptor Type : FREAK
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>

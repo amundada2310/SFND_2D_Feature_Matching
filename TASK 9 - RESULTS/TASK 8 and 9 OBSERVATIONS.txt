@@ -1,0 +1,31 @@
+Observations:
+
+1. Akaze :
+Akaze Descriptor only runs with Akaze Detector combination.
+
+2. Sift:
+Sift Detector doesnt run with Orb Descriptor Type.
+
+3. Top 3 maximum matches found combinations:
+	Maximum number of matched keypoits - 
+		Fast Detector -  Brief Descriptor Type
+		Fast Detector -  Orb Descriptor Type
+		Fast Detector -  Sift Descriptor Type
+
+4. All combinations with FAST Detector Type, irrespective of the Descriptor Type took (<3ms) for determining keypoints and also matching process.
+
+5. Bottom 3 minimum matches found combinations:
+	Minimum number of matched keypoints -
+		Harris Corner Detector -  Brisk Descriptor Type
+		Harris Corner Detector -  Freak Descriptor Type
+		Harris Corner Detector -  Orb Descriptor Type
+
+7. Brisk Detector Type took maximum amount of time to determine keypoints as compared to other detector types.
+
+8. Looking at overall performnace the FAST detector type is the best one with below descriptor combinations. 
+	Fast detector - Brief Descriptor
+	Fast detector - Orb descriptor
+	Fast detector - sift descriptor
+	Fast detector - brisk descriptor
+
+

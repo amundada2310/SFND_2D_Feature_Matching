@@ -1,0 +1,59 @@
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master> .\build\Release\2D_feature_tracking.exe
+ Result 1 : Total time for determining detectors 139.166 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 264
+Result 3 : Neighborhood Size = 11.4444
+ Result 1 : Total time for determining detectors 138.666 ms ; Using Dectector Type : BRISK ; Total Size : 2777
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 16.5484
+Result 4 : Total time for matching descritors 0.6613 ms ; Total time : 139.327 ms
+Result 5 : Total Matched Keypoints between 2 images =138; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 132.229 ms ; Using Dectector Type : BRISK ; Total Size : 2741
+Result 2 : Total keypoints on preceding vehicle = 282
+Result 3 : Neighborhood Size = 13.0737
+Result 4 : Total time for matching descritors 0.6073 ms ; Total time : 132.836 ms
+Result 5 : Total Matched Keypoints between 2 images =166; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 132.579 ms ; Using Dectector Type : BRISK ; Total Size : 2735
+Result 2 : Total keypoints on preceding vehicle = 277
+Result 3 : Neighborhood Size = 11.6
+Result 4 : Total time for matching descritors 0.6453 ms ; Total time : 133.224 ms
+Result 5 : Total Matched Keypoints between 2 images =129; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 138.695 ms ; Using Dectector Type : BRISK ; Total Size : 2757
+Result 2 : Total keypoints on preceding vehicle = 297
+Result 3 : Neighborhood Size = 12
+Result 4 : Total time for matching descritors 0.6256 ms ; Total time : 139.32 ms
+Result 5 : Total Matched Keypoints between 2 images =141; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 140.92 ms ; Using Dectector Type : BRISK ; Total Size : 2695
+Result 2 : Total keypoints on preceding vehicle = 279
+Result 3 : Neighborhood Size = 12.1837
+Result 4 : Total time for matching descritors 0.5814 ms ; Total time : 141.501 ms
+Result 5 : Total Matched Keypoints between 2 images =148; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 138.613 ms ; Using Dectector Type : BRISK ; Total Size : 2715
+Result 2 : Total keypoints on preceding vehicle = 289
+Result 3 : Neighborhood Size = 11.5455
+Result 4 : Total time for matching descritors 0.6053 ms ; Total time : 139.218 ms
+Result 5 : Total Matched Keypoints between 2 images =155; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 131.184 ms ; Using Dectector Type : BRISK ; Total Size : 2628
+Result 2 : Total keypoints on preceding vehicle = 272
+Result 3 : Neighborhood Size = 13.625
+Result 4 : Total time for matching descritors 0.5875 ms ; Total time : 131.771 ms
+Result 5 : Total Matched Keypoints between 2 images =158; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 131.147 ms ; Using Dectector Type : BRISK ; Total Size : 2639
+Result 2 : Total keypoints on preceding vehicle = 266
+Result 3 : Neighborhood Size = 10.5714
+Result 4 : Total time for matching descritors 0.5364 ms ; Total time : 131.683 ms
+Result 5 : Total Matched Keypoints between 2 images =161; Using Descriptor Type : BRIEF
+Press key to continue to next image
+ Result 1 : Total time for determining detectors 134.967 ms ; Using Dectector Type : BRISK ; Total Size : 2672
+Result 2 : Total keypoints on preceding vehicle = 254
+Result 3 : Neighborhood Size = 8.4
+Result 4 : Total time for matching descritors 0.5253 ms ; Total time : 135.493 ms
+Result 5 : Total Matched Keypoints between 2 images =148; Using Descriptor Type : BRIEF
+Press key to continue to next image
+PS C:\Users\aishw\Downloads\SFND_2D_Feature_Tracking-master>
