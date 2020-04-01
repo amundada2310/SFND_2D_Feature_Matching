@@ -1,5 +1,3 @@
-# SFND_2D_Feature_Matching
-SFND_2D_Feature_Matching
 
 # SFND 2D Feature Tracking
 
